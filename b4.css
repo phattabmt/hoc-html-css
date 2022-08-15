@@ -1,0 +1,15 @@
+h1{
+    color: aqua;
+}
+
+#f1 { color: red;
+
+}
+
+.f2 {
+    color :green;
+    font-size: 77px;
+}
+.f2#f3 {
+    color: coral;
+}
